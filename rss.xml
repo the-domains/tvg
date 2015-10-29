@@ -4,7 +4,7 @@
         <description><![CDATA[TVG]]></description>
         <link>https://thegrid.ai/tvg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 03:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 03:25:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tvg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,27 @@
             <link>https://thegrid.ai/tvg/9a2de1c1-f390-433e-b595-2ce99e069bf4/index.html</link>
             <guid isPermaLink="false">9a2de1c1-f390-433e-b595-2ce99e069bf4</guid>
             <pubDate>Thu, 29 Oct 2015 03:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/941117_608960765790563_2122432150_n.jpg?oh=6608be6c251a4bc45c92e7a5f1bff245&oe=56B7FF26">]]></description>
+            <link>https://thegrid.ai/tvg/eb1f2798-c337-4635-a1ba-3f58e2ef487d/index.html</link>
+            <guid isPermaLink="false">eb1f2798-c337-4635-a1ba-3f58e2ef487d</guid>
+            <pubDate>Thu, 29 Oct 2015 03:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1011516_624003510952955_2116585929_n.jpg?oh=e606fbbb0b56ff4c294540485a08de25&oe=56BF681B">]]></description>
+            <link>https://thegrid.ai/tvg/25b282e1-af95-4db5-867a-3be5257ccbe5/index.html</link>
+            <guid isPermaLink="false">25b282e1-af95-4db5-867a-3be5257ccbe5</guid>
+            <pubDate>Thu, 29 Oct 2015 03:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1531775_706830662670239_1145308292_n.jpg?oh=6919f2c412034328b37d311bacd477ea&oe=56B6C6B0">]]></description>
+            <link>https://thegrid.ai/tvg/70d85721-d9e4-4aa8-baa2-f5c4f73c9920/index.html</link>
+            <guid isPermaLink="false">70d85721-d9e4-4aa8-baa2-f5c4f73c9920</guid>
+            <pubDate>Thu, 29 Oct 2015 03:23:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/tvg/d8a1dbfe-704e-4f7d-b053-a2bb26ff1d95/index.html</link>
             <guid isPermaLink="false">d8a1dbfe-704e-4f7d-b053-a2bb26ff1d95</guid>
             <pubDate>Thu, 29 Oct 2015 03:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12118817_1056962790990356_1025029395432727640_n.jpg?oh=29c490ac1b31289e63528d4d122a5629&oe=56D09C61">]]></description>
-            <link>https://thegrid.ai/tvg/4bfaa0df-64b3-44b3-bee8-12bb53d026b3/index.html</link>
-            <guid isPermaLink="false">4bfaa0df-64b3-44b3-bee8-12bb53d026b3</guid>
-            <pubDate>Thu, 29 Oct 2015 03:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10386745_935801233106513_3287526196787819563_n.jpg?oh=dbf3236171012d5202bbbb950488d274&oe=56B0962F">]]></description>
-            <link>https://thegrid.ai/tvg/d24011cf-bd75-407f-a836-b35d2e0bfb6f/index.html</link>
-            <guid isPermaLink="false">d24011cf-bd75-407f-a836-b35d2e0bfb6f</guid>
-            <pubDate>Thu, 29 Oct 2015 03:22:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10320496_935801236439846_400684833977433618_n.jpg?oh=06702fa5eebc582dab23a5b0523143c8&oe=56BEB5A9">]]></description>
-            <link>https://thegrid.ai/tvg/e8f62e66-45f3-47ce-a329-8870d3e95187/index.html</link>
-            <guid isPermaLink="false">e8f62e66-45f3-47ce-a329-8870d3e95187</guid>
-            <pubDate>Thu, 29 Oct 2015 03:22:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
