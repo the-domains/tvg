@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TVG]]></title>
+        <description><![CDATA[TVG]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 29 Oct 2015 03:19:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Events]]></title>
+            <description><![CDATA[<article><h1>Events</h1><p>Event Collateral Design & Production</p><img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11062257_1043299172356718_5550763425641353704_n.jpg?oh=54f7cb4c67cb4f403a276fdc6652959c&oe=56BDD5C0"></article>]]></description>
+            <link>undefinedevents/index.html</link>
+            <guid isPermaLink="false">66c1530a-1ad2-484b-b67d-06df9d1affc3</guid>
+            <pubDate>Thu, 29 Oct 2015 03:19:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
