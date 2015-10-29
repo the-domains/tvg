@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TVG]]></title>
         <description><![CDATA[TVG]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tvg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 03:19:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 29 Oct 2015 03:21:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tvg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New York City Wine Food Festival]]></title>
+            <description><![CDATA[<article><h1>New York City Wine Food Festival</h1><p>2015 NYCWFF Event</p><img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/12106975_1055458921140743_1881448676164473716_n.jpg?oh=7bfea680d331751f28560a022a19f200&oe=56C3B111"></article>]]></description>
+            <link>https://thegrid.ai/tvg/9a2de1c1-f390-433e-b595-2ce99e069bf4/index.html</link>
+            <guid isPermaLink="false">9a2de1c1-f390-433e-b595-2ce99e069bf4</guid>
+            <pubDate>Thu, 29 Oct 2015 03:21:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Events]]></title>
             <description><![CDATA[<article><h1>Events</h1><p>Event Collateral Design & Production</p><img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11062257_1043299172356718_5550763425641353704_n.jpg?oh=54f7cb4c67cb4f403a276fdc6652959c&oe=56BDD5C0"></article>]]></description>
-            <link>undefinedevents/index.html</link>
+            <link>https://thegrid.ai/tvg/events/index.html</link>
             <guid isPermaLink="false">66c1530a-1ad2-484b-b67d-06df9d1affc3</guid>
             <pubDate>Thu, 29 Oct 2015 03:19:09 GMT</pubDate>
         </item>
