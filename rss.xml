@@ -4,7 +4,7 @@
         <description><![CDATA[TVG]]></description>
         <link>https://thegrid.ai/tvg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 03:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 03:25:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tvg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/tvg/9a2de1c1-f390-433e-b595-2ce99e069bf4/index.html</link>
             <guid isPermaLink="false">9a2de1c1-f390-433e-b595-2ce99e069bf4</guid>
             <pubDate>Thu, 29 Oct 2015 03:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1911867_870974566255847_6270326194133270895_n.jpg?oh=1f7109f6f0bfd60f49c106e9aea29501&oe=56CDA276">]]></description>
+            <link>https://thegrid.ai/tvg/a0bae2f0-04e9-4d4a-948d-284079a27584/index.html</link>
+            <guid isPermaLink="false">a0bae2f0-04e9-4d4a-948d-284079a27584</guid>
+            <pubDate>Thu, 29 Oct 2015 03:23:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/1520612_706830676003571_1015533353_n.jpg?oh=9aaf221f0b227c9109a7585f8a68c932&oe=56857EF7">]]></description>
             <link>https://thegrid.ai/tvg/619b62ff-f803-4710-906b-f48fc6811b61/index.html</link>
             <guid isPermaLink="false">619b62ff-f803-4710-906b-f48fc6811b61</guid>
-            <pubDate>Thu, 29 Oct 2015 03:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/10896914_914280141925289_8249467405806364248_n.jpg?oh=e63a1a19480c8e0875cb376c2edc8a96&oe=56AFE885">]]></description>
-            <link>https://thegrid.ai/tvg/d8a1dbfe-704e-4f7d-b053-a2bb26ff1d95/index.html</link>
-            <guid isPermaLink="false">d8a1dbfe-704e-4f7d-b053-a2bb26ff1d95</guid>
             <pubDate>Thu, 29 Oct 2015 03:23:39 GMT</pubDate>
         </item>
     </channel>
