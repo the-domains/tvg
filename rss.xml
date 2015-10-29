@@ -4,7 +4,7 @@
         <description><![CDATA[TVG]]></description>
         <link>https://thegrid.ai/tvg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 03:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 03:24:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tvg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New York City Wine Food Festival]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tvg/9a2de1c1-f390-433e-b595-2ce99e069bf4/index.html</link>
             <guid isPermaLink="false">9a2de1c1-f390-433e-b595-2ce99e069bf4</guid>
             <pubDate>Thu, 29 Oct 2015 03:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10690221_914280151925288_5145788289650067760_n.jpg?oh=0f60e7c64dc09ae3579260687686fa8f&oe=56B6FFE2">]]></description>
+            <link>https://thegrid.ai/tvg/fb36e0d5-83b9-47f8-a442-8125eca26c48/index.html</link>
+            <guid isPermaLink="false">fb36e0d5-83b9-47f8-a442-8125eca26c48</guid>
+            <pubDate>Thu, 29 Oct 2015 03:23:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/547302_659908750695764_1863999705_n.jpg?oh=1bd4e1405e721f603c5f0f10ec0c98ee&oe=5685FC79">]]></description>
             <link>https://thegrid.ai/tvg/13a58f95-201d-4097-9b33-2300416029e5/index.html</link>
             <guid isPermaLink="false">13a58f95-201d-4097-9b33-2300416029e5</guid>
-            <pubDate>Thu, 29 Oct 2015 03:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/485482_608576149162358_1687873811_n.png?oh=79896dc140d7d5f5966568b1d7e40484&oe=56B57662">]]></description>
-            <link>https://thegrid.ai/tvg/93308005-7d46-4472-82c6-c6e559afa526/index.html</link>
-            <guid isPermaLink="false">93308005-7d46-4472-82c6-c6e559afa526</guid>
             <pubDate>Thu, 29 Oct 2015 03:22:22 GMT</pubDate>
         </item>
     </channel>
