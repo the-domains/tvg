@@ -1,0 +1,23 @@
+name: TVG
+favicon: null
+layout_spectrum: 0.5469836303964257
+typography_spectrum: 0.010220423806458712
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8492094448301941
+  lightness: 0.49734426056966186
+  saturation: 0.7167496040929109
+  rhythmicContrast: 0.06477241474203765
+purpose: []
