@@ -4,7 +4,7 @@
         <description><![CDATA[TVG]]></description>
         <link>https://thegrid.ai/tvg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 03:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 03:24:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tvg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New York City Wine Food Festival]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tvg/9a2de1c1-f390-433e-b595-2ce99e069bf4/index.html</link>
             <guid isPermaLink="false">9a2de1c1-f390-433e-b595-2ce99e069bf4</guid>
             <pubDate>Thu, 29 Oct 2015 03:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/1520612_706830676003571_1015533353_n.jpg?oh=9aaf221f0b227c9109a7585f8a68c932&oe=56857EF7">]]></description>
+            <link>https://thegrid.ai/tvg/619b62ff-f803-4710-906b-f48fc6811b61/index.html</link>
+            <guid isPermaLink="false">619b62ff-f803-4710-906b-f48fc6811b61</guid>
+            <pubDate>Thu, 29 Oct 2015 03:23:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/tvg/93308005-7d46-4472-82c6-c6e559afa526/index.html</link>
             <guid isPermaLink="false">93308005-7d46-4472-82c6-c6e559afa526</guid>
             <pubDate>Thu, 29 Oct 2015 03:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Events]]></title>
-            <description><![CDATA[<article><h1>Events</h1><p>Event Collateral Design & Production</p><img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11062257_1043299172356718_5550763425641353704_n.jpg?oh=54f7cb4c67cb4f403a276fdc6652959c&oe=56BDD5C0"></article>]]></description>
-            <link>https://thegrid.ai/tvg/events/index.html</link>
-            <guid isPermaLink="false">66c1530a-1ad2-484b-b67d-06df9d1affc3</guid>
-            <pubDate>Thu, 29 Oct 2015 03:19:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
