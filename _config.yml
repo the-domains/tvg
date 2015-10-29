@@ -1,6 +1,6 @@
 name: TVG
 favicon: null
-layout_spectrum: 0.27609
+layout_spectrum: 0
 typography_spectrum: 0.25
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#000000'
     - '#545454'
     - '#838383'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
